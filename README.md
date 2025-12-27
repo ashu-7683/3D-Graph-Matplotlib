@@ -25,3 +25,9 @@ It covers common 3D visualization techniques such as **line plots, scatter plots
 
 ---
 
+## 📦 Installation
+
+Make sure Python is installed, then install the required libraries:
+
+```bash
+pip install numpy matplotlib
