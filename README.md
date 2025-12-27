@@ -16,3 +16,12 @@ It covers common 3D visualization techniques such as **line plots, scatter plots
 
 ---
 
+## 🛠️ Technologies Used
+
+- Python 🐍
+- NumPy
+- Matplotlib
+- mpl_toolkits.mplot3d
+
+---
+
